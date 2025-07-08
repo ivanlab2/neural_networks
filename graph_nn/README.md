@@ -27,10 +27,10 @@
 | 0.646   | 0.034   | 0.01  | 0.963  |
 
 ### График потерь:
-![Loss Curve](images/loss_gnn.png)
+![Loss Curve](../images/loss_gnn.png)
 
 ### Доля предиктов, попавших в окрестность:
-![eWt graph](images/ewt.png)
+![eWt graph](../images/ewt.png)
 
 ## Примечание
 

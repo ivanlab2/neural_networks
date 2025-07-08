@@ -42,7 +42,7 @@
 | LSTM  | 0.974    | 0.963    | 0.002  | 0.041   |
 | GRU   | 0.92   | 0.837     | 0.007  | 0.086   |
 
-<div align="center"> <table> <tr> <th>RMLP: График потерь</th> <th>LSTM: График потерь</th> <th>GRU: График потерь</th> </tr> <tr> <td><img src="images/loss_rmlp.png" width="250"/></td> <td><img src="images/loss_lstm.png" width="250"/></td> <td><img src="images/loss_gru.png" width="250"/></td> </tr> <tr> <th>RMLP: Предсказание</th> <th>LSTM: Предсказание</th> <th>GRU: Предсказание</th> </tr> <tr> <td><img src="images/pred_rmlp.png" width="250"/></td> <td><img src="images/pred_lstm.png" width="250"/></td> <td><img src="images/pred_gru.png" width="250"/></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <th>RMLP: График потерь</th> <th>LSTM: График потерь</th> <th>GRU: График потерь</th> </tr> <tr> <td><img src="../images/loss_rmlp.png" width="250"/></td> <td><img src="../images/loss_lstm.png" width="250"/></td> <td><img src="../images/loss_gru.png" width="250"/></td> </tr> <tr> <th>RMLP: Предсказание</th> <th>LSTM: Предсказание</th> <th>GRU: Предсказание</th> </tr> <tr> <td><img src="../images/pred_rmlp.png" width="250"/></td> <td><img src="../images/pred_lstm.png" width="250"/></td> <td><img src="../images/pred_gru.png" width="250"/></td> </tr> </table> </div>
 
 ## Примечание
 

@@ -24,10 +24,10 @@
 | 0.993    | 0.989     | 0.999  | 0.994   |
 
 ### График потерь:
-![Loss Curve](images/loss_mlp.png)
+![Loss Curve](../images/loss_mlp.png)
 
 ### ROC-кривая:
-![ROC Curve](images/ROC_mlp.png)
+![ROC Curve](../images/ROC_mlp.png)
 
 ## Примечание
 

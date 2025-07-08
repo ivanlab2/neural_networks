@@ -13,7 +13,7 @@
 
 ### Реализуемая архитектура
 
-![Architecture](images/transformer_arch.png)
+![Architecture](../images/transformer_arch.png)
 
 ## Данные
 
@@ -30,7 +30,7 @@
 | 0.816    | 0.708    | 0.768  | 0.737   |
 
 ### График потерь:
-![Loss Curve](images/loss_transformer.png)
+![Loss Curve](../images/loss_transformer.png)
 
 
 ## Примечание

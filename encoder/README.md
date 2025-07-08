@@ -27,17 +27,17 @@
 | 0.816    | 0.708    | 
 
 ### Графики потерь:
-![Loss Curve MSE](images/loss_cvae_mse.png)
+![Loss Curve MSE](../images/loss_cvae_mse.png)
 
-![Loss Curve KLD](images/loss_cvae_kld.png)
+![Loss Curve KLD](../images/loss_cvae_kld.png)
 
 ### Предсказания реальных цифр:
 
-![Real Digits](images/Real_digits.png)
+![Real Digits](../images/Real_digits.png)
 
 ### Генерация случайных цифр:
 
-![Random Digits](images/Random_digits.png)
+![Random Digits](../images/Random_digits.png)
 
 ## Примечание
 

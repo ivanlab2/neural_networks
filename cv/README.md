@@ -39,7 +39,7 @@
 | 9     | 0.9708   | 0.8511    | 0.8612 | 0.8562  |
 
 ### График потерь:
-![Loss Curve](images/loss_cnn.png)
+![Loss Curve](../images/loss_cnn.png)
 
 
 ## Примечание
